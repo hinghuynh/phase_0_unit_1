@@ -1,24 +1,24 @@
 /* include your css here */
-   html {
-        background: grey;
-        text-align: center;
-        width: 500px;
-        font-family:Lato; 
-        margin:15px auto
-        }
-        #driver {
-            float:left;
-            width: 200px;
-            height: 200px;
-        }
-        #navigator {
-            float:right;
-            width: 250px;
-            height: 200px;
-        }
-         #benefits {
-            clear: both; 
-         }
-      header {
-            font-size: 45px;
-      }
+html {
+   background: grey;
+   text-align: center;
+   width: 500px;
+   font-family:Lato; 
+   margin:15px auto
+   }
+#driver {
+   float:left;
+   width: 200px;
+   height: 200px;
+   }
+#navigator {
+   float:right;
+   width: 250px;
+   height: 200px;
+   }
+#benefits {
+   clear: both; 
+   }
+header {
+   font-size: 45px;
+   }
