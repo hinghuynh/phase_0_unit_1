@@ -14,10 +14,13 @@
   
      *For performance optimization you should use the network tab, to figure out what is slowing down your site loading. It provides details like file size and loading time, which can be used to figure out what files are too big or what is taking too long to load, so you can figure out what to work with to increase efficiency.*
 
-* What's the quick key for your OS to spawn the Dev Tools inspector?
+* **What's the quick key for your OS to spawn the Dev Tools inspector?**
+      *For windows it's F12 or shift+ctrl+i*
+
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
+   *
   * Tweak the background color to white.
   * Tweak the height of the side bar that contains the logo.  Shrink it down to 85px.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
