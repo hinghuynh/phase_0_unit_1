@@ -42,7 +42,7 @@
   * **Explain how you would find out this information, and list the URL of offending image here and how big it is.**
  
 *You could look at the network tab in dev tools and then organize files by content size and look for the biggest picture. url: http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png 500px x 210px*
-* **Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?**
+* Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  **What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?**
 
 *Properly formatting and compressing images can save many bytes of data.
 Optimize the following images to reduce their size by 885.9KiB (39% reduction).*
