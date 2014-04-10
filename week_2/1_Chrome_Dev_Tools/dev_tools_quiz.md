@@ -31,10 +31,14 @@
   * 
 **MY IMAGE** http://tinypic.com/r/105yyrl/8
 
-* For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+* **For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.**
 
+*Because the entire thing is an image, and you cannot edit text on an image without using some kind of photo editor.*
 * Go to www.ticketswizard.com and analyze the page.  
-  * What is the largest image on the website? 
-  * Explain how you would find out this information, and list the URL of offending image here and how big it is.
-
+  * **What is the largest image on the website?**
+  
+*I believe it is a nighttime picture of new york times square. 316kb*
+ 
+  * **Explain how you would find out this information, and list the URL of offending image here and how big it is.**
+*You could look at the network tab in dev tools and then organize files by content size and look for the biggest picture. url: http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png 500px x 210px
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
