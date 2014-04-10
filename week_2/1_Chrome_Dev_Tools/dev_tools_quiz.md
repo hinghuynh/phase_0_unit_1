@@ -15,17 +15,21 @@
      *For performance optimization you should use the network tab, to figure out what is slowing down your site loading. It provides details like file size and loading time, which can be used to figure out what files are too big or what is taking too long to load, so you can figure out what to work with to increase efficiency.*
 
 * **What's the quick key for your OS to spawn the Dev Tools inspector?**
+
       *For windows it's F12 or shift+ctrl+i*
 
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
-  * What is the current background color for the page?  (Surprisingly, it's not just black!)
-   *
+  * **What is the current background color for the page?  (Surprisingly, it's not just black!)**
+   
+      *It's (#0b0f11) which is a intermediate blue-green.
   * Tweak the background color to white.
   * Tweak the height of the side bar that contains the logo.  Shrink it down to 85px.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
   * Upload your own image to the web using an image hosting service.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
+  * 
+http://tinypic.com/r/105yyrl/8
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 
