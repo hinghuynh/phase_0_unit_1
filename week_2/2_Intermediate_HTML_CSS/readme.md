@@ -27,7 +27,8 @@ Do some research into standard practices of web design, reset css, and HTML5. Us
 ### 2. Apply
 Download the [practice files](http://girldevelopit.com/assets/intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_week1` folder.
 
-* Add reset.css to your index.html file. What happens?
+* **Add reset.css to your index.html file. What happens?**
+  *The index.html gets its CSS settings set back to default, making it aesthetically displeasing.*
 * Update the header links to jump to sections
 * Make links change color on hover
 * Change the font (@fontface) for elements on the site.
