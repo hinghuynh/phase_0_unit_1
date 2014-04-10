@@ -4,13 +4,13 @@
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
-*  *Realtime editing of HTML and CSS*
+*  **Realtime editing of HTML and CSS**
 
     HTML can be edited in elements tab. As for CSS you can work within the styles tab of the element tab or work in the source tab. These can be done just by simply clicking on the desire text you want to edit and change it. or click on the checkbox of the styles tab if you want to remove or add back certain css features.
-*  *Javascript Debugging*
+*  **Javascript Debugging**
   
      Javascript can be debugged in console. Typing console commands to find the problem and usually editted will take place in the elements or source tab.
-*  *Performance Optimization*
+*  **Performance Optimization**
   
      For performance optimization you should use the network tab, to figure out what is slowing down your site loading. It provides details like file size and loading time, which can be used to figure out what files are too big or what is taking too long to load, so you can figure out what to work with to increase efficiency.
 
