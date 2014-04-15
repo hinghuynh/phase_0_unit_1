@@ -105,7 +105,22 @@ this.moveUp();
 this.moveUp();
 this.say("Attack!");
 
-
+//Break OUT OF PRISON
+// Write this isFriend(name) spell to tell friend from foe.
+// Return true for friends' names, false for ogres' names.
+if(name === "William")
+    return true;
+if(name === "Krogg")
+    return false;  // <-- Start here; Krogg is not a friend!
+if(name === "Lucas")
+    return true;
+if(name === "Brack")
+    return false;
+if(name === "Marcus")
+    return true;
+if(name === "Gordon")
+    return true;    
+    
  //TAUNT
  this.say("Hey!");
 // Lure the ogre right into your arrow trap
