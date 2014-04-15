@@ -5,7 +5,7 @@
 // command + / This will comment the line. 
  
  
- //RESCUE MISSION
+//RESCUE MISSION
 //move down x2
 this.moveDown();
 this.moveDown();
@@ -23,7 +23,7 @@ this.moveDown();
 this.attackNearbyEnemy();
 
 
-//Grab the mushroom
+//GRAB THE MUSHROOM
 //move up x1
 this.moveUp();
 //move right x1
@@ -35,7 +35,7 @@ this.moveUp();
 //Attack!
 this.attackNearbyEnemy();
 
-//Drink move
+//DRINK MOVE
 //move right x1
 this.moveRight();
 //Attack!
@@ -51,7 +51,7 @@ this.moveRight();
 //Attack!
 this.attackNearbyEnemy();
 
-//Taunt the guards
+//TAUNT THE GUARDS
 //move right x1
 this.moveRight();
 //bust down the door
