@@ -139,10 +139,37 @@ this.say("Hey Ugly");
 // Then run back behind the arrow towers for safety.
 this.moveXY(63, 20);
 this.moveXY(70, 10);  // This is a safe spot.
-
 this.say("I can lure them in here.");
 // You can shift+click on the map to insert coordinates.
  
+//COMMANDING FOLLOWERS
+this.moveXY(49, 66);
+this.moveXY(60, 63);
+this.moveXY(75, 63);
+this.say("Hail, friends!");
+// Saying anything with "follow" in it will get nearby soldiers
+// to follow you
+this.say("Follow me.");
+this.moveXY(65, 43);
+// Saying anything with "attack" will send nearby troops into
+// a battle mode.
+this.say("Attack!");
+// Make sure Tharin is safe!
+this.moveXY(75, 63);
+
+this.moveXY(30, 26);  // Move into range
+this.attackXY(46, 5);  // Shoot once in the middle of the ogres
+this.moveXY(38, 40);
+this.attackXY(49, 65);
+this.attackXY(49, 58);
+this.moveXY(45, 40);
+this.attackXY(68, 55);
+this.attackXY(56, 47);
+// If they survive a hit, ogres retaliate!
+// Larger ogres take more than one hit...
+// So, position and aim carefully.
+
+
 // Reflection:
 // Write your reflection here.
 // Taunt the Ogre and run for cover!
