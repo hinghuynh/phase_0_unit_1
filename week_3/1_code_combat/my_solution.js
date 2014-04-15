@@ -97,12 +97,43 @@ this.moveUp();
 this.moveRight();
 
 // its-a-trap
+// Taunt the Ogre and run for cover!
+this.moveDown();
+this.moveDown();
+this.say("Hey there!");
+this.moveUp();
+this.moveUp();
+this.say("Attack!");
 
+
+ //Taunt
+ this.say("Hey!");
+
+// Lure the ogre right into your arrow trap
+// by saying a few more things at him.
+// Anything works!
+this.say("Hey Ugly!");
+this.say("Hey Fatty!"); 
+this.say("You smell!");
+this.say("You stink!");
  
- 
- 
- 
- 
+ //COWARDLY TAUNT
+ this.moveXY(50, 16);
+this.say("Hey Ugly");
+this.moveXY(63, 20);
+this.moveXY(70, 10);  // This is a safe spot.
+
+this.say("I can lure them in here.");
+
+// Run your soldier out where the ogres can hear you.
+
+// Say something!
+
+// Then run back behind the arrow towers for safety.
+
+// You can shift+click on the map to insert coordinates.
  
 // Reflection:
 // Write your reflection here.
+// Taunt the Ogre and run for cover!
+
