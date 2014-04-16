@@ -22,16 +22,12 @@ var Kristen = new Client("Kristen Bell", 33, "Do you wanna build a snowman?");
 var Jim = new Client("Jim Carrey", 52, "...So you're telling me there's a chance? YEAH!");
 
 // 3. "TIME IS MONEY!"
-function Client(name,age,quote)
-{
-this.name=name;
-this.age=age;
-this.quote=quote;
-}
+
 var shooterMcGavin = new Client("Shooter McGavin", 48, "Just stay out of my way... or you'll pay. Listen to what I say.");
 shooterMcGavin.constructor === Client;
 shooterMcGavin.age === 48;
 shooterMcGavin.quote === "Just stay out of my way... or you'll pay. Listen to what I say.";
+
 // 4. "SHOW 'EM OFF!"
 
 var listOfNames = [Hing, Lienha, Adam, Kristen, Jim, shooterMcGavin]
