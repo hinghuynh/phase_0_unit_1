@@ -45,14 +45,34 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
-
-
+//Define var adam and give it name property "Adam"
+var adam = {
+  name: "Adam"
+}
+//Add spouse property to terah and assign it the value of adam
+terah.spouse = adam;
+//Re-assign terah's weight to 125
+terah.weight = 125;
+//Delete eyeColor property from terah
+delete terah.eyeColor;
+//Add spouse property to Adam and assign value of terah
+adam.spouse = terah;
+//Add children property to terah and assign it no properties
+terah.children = {};
+//Add carson property to the value of terah.children and assign a name property with the value of "Carson"
+terah.children.carson = {
+  name: "Carson"
+}
+//Add carter property to the value of terah.children and assign a name property with the value of "Carter"
+terah.children.carter = {
+  name: "Carter"
+}
+//Add colton property to the alue of terah.children and assign a name propertry with the value of "Colton"
+terah.children.colton = {
+  name: "Colton"
+}
+// Add children property to adam and assign terah's children to it.
+adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
