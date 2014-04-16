@@ -73,7 +73,10 @@ terah.children.colton = {
 }
 // Add children property to adam and assign terah's children to it.
 adam.children = terah.children;
-//4. Refactor - After reviewing my code I was not able to find anything that I could simplify, shorten, or make more clear. I think the code i wrote as clean as i could make it.
+
+/*4. Refactor - After reviewing my code I was not able to find anything that I could simplify, shorten,
+or make more clear. I think the code i wrote as clean as i could make it. */
+
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
