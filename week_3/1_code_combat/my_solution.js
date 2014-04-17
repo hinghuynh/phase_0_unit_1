@@ -172,7 +172,7 @@ this.attackXY(56, 47);
 
 // Reflection:
 // The coding was pretty straight forward, I didn't really have any
-// difficulty doing this. It was just simple trial and error. I didn't
+// difficulties doing this. It was just simple trial and error. I didn't
 // learn any new skills or tricks.  I really enjoyed playing the missions, 
 // but writing the pseudo-code was tedious.
 
