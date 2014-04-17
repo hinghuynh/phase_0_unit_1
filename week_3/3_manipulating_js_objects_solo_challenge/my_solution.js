@@ -82,7 +82,7 @@ or make more clear. I think the code i wrote as clean as i could make it. */
 // This one was a little more difficult than the earlier excerises, but still relatively simple.
 // The only real problem that I had was when i first assigned the names of children to the children properties
 // to terah.children I forgot to add name properties to each of the children.  I found this challenge very 
-// enjoyable. Once again the most tedious parts is always the pseudo-code, refractoring, and reflection.
+// enjoyable. Once again the most tedious parts are always the pseudo-code, refractoring, and reflection.
 // 
 // 
 
