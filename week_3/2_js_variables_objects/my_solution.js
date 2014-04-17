@@ -1,34 +1,31 @@
-// I paired [by myself, with:] on this challenge.
-
-
-
+// Hing Huynh and Lienha Carleton are on this challenge.
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// create a variable called secret number and assign a value of 7
+// create a variable called password with a string of "just open the door"
+// create a variable called allowedIn with a boolean value of false.
+// create an array with four elements, with the first element being "John" and fourth element being "Mary"
 
 
 // __________________________________________
 // Write your code below.
-
-
-
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John", "Hing", "Lienha", "Mary"];
 
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
-
+// I stared at the code for a while and could not find any way to make it more D.R.Y.
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
+// Figuring out code is fun but typing the pseudocode is tedious. We learned what <typeof> does. Overall the exercise gave us
+// a chance to practice what we learned.
 // 
 // 
 // 
@@ -101,4 +98,3 @@ assert(
   "The fourth element in the value of members should be 'Mary'.",
   "9. "
 )
-
