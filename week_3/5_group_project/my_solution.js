@@ -150,3 +150,11 @@ assert(
   "median should return the median value of all elements in an array with an even length.",
   "9. "
 )
+
+// Reflection:
+// This was probably the most difficult assignment this week, but definitely the most enjoyable.
+// We had plenty of questions while coding, but it only took some brainstorming to solve.  Most of 
+// the problems was syntax placing.  It was a very fun experience working together on this project.
+// Our group was successful in passing the tests. I learned that stories can be written really 
+// creatively and that there's always ways to keep refactoring code, as you get better and better with
+// your language knowledge.
