@@ -171,6 +171,6 @@ this.attackXY(56, 47);
 
 
 // Reflection:
-// Write your reflection here.
+//
 // Taunt the Ogre and run for cover!
 
