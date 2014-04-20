@@ -14,7 +14,7 @@
 //  can be utilized by the good guy or bad guys. The end user will play the role
 //  of the good guy. The 
 //  The characters positions are based off x,y coordinates. 
-// these character variable have name, life, and position properties
+//  These character variable have name, life, and position properties
 
 <!DOCTYPE html> // HTML
 <body>
