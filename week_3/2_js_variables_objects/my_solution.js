@@ -1,4 +1,4 @@
-// Hing Huynh and Lienha Carleton are on this challenge.
+// Hing Huynh and Lienha Carleton worked on this challenge.
 
 // Pseudocode
 // create a variable called secret number and assign a value of 7
@@ -12,7 +12,7 @@
 var secretNumber = 7;
 var password = "just open the door";
 var allowedIn = false;
-var members = ["John", "Hing", "Lienha", "Mary"];
+var members = ["John", "", "", "Mary"];
 
 
 // __________________________________________
