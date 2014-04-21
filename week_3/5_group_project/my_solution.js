@@ -1,3 +1,10 @@
+// The following people worked on this challenge:
+// Ajay Singh
+// Matthew Hein
+// Tim Howard
+// Hing Huynh
+
+
 //----- STORY -----
 // I want to create a user program that can help me with my statistics homework.
 // To start with, I want to be able to calculate the sum of numbers at some
